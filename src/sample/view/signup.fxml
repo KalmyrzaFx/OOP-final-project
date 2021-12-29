@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #e7dda3;" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controller.SignupController">
+   <children>
+      <AnchorPane prefHeight="90.0" prefWidth="600.0" style="-fx-background-color: #3b3b3b;">
+         <children>
+            <Label alignment="CENTER" layoutX="230.0" layoutY="20.0" prefHeight="50.0" prefWidth="140.0" text="ToDo" textFill="WHITE">
+               <font>
+                  <Font name="Baskerville Old Face" size="40.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <TextField fx:id="signUpFirstName" layoutX="133.0" layoutY="112.0" prefHeight="26.0" prefWidth="335.0" promptText="First Name">
+         <font>
+            <Font name="Baskerville Old Face" size="12.0" />
+         </font></TextField>
+      <TextField fx:id="signUpLastName" layoutX="133.0" layoutY="159.0" prefHeight="25.0" prefWidth="335.0" promptText="Last Name">
+         <font>
+            <Font name="Baskerville Old Face" size="12.0" />
+         </font></TextField>
+      <TextField fx:id="signUpUsername" layoutX="133.0" layoutY="207.0" prefHeight="25.0" prefWidth="335.0" promptText="Username">
+         <font>
+            <Font name="Baskerville Old Face" size="12.0" />
+         </font></TextField>
+      <TextField fx:id="signUpLocation" layoutX="133.0" layoutY="320.0" prefHeight="25.0" prefWidth="335.0" promptText="Location">
+         <font>
+            <Font name="Baskerville Old Face" size="12.0" />
+         </font></TextField>
+      <CheckBox fx:id="signUpCheckBoxMale" layoutX="133.0" layoutY="290.0" mnemonicParsing="false" selected="true" text="Male">
+         <font>
+            <Font name="Baskerville Old Face" size="12.0" />
+         </font></CheckBox>
+      <CheckBox fx:id="signUpCheckBoxFemale" layoutX="201.0" layoutY="290.0" mnemonicParsing="false" text="Female">
+         <font>
+            <Font name="Baskerville Old Face" size="12.0" />
+         </font></CheckBox>
+      <Button fx:id="signUpButton" layoutX="249.0" layoutY="352.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="103.0" style="-fx-background-color: #bdac5f;" text="Sign Up" textFill="WHITE">
+         <font>
+            <Font name="Baskerville Old Face" size="17.0" />
+         </font>
+      </Button>
+      <PasswordField fx:id="signUpPassword" layoutX="133.0" layoutY="254.0" prefHeight="25.0" prefWidth="335.0" promptText="Password">
+         <font>
+            <Font name="Baskerville Old Face" size="12.0" />
+         </font></PasswordField>
+   </children>
+</AnchorPane>

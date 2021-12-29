@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a09da38-0679-4865-9abd-f80ad316920d" name="Default Changelist" comment="taskClass">
+      <change beforePath="$PROJECT_DIR$/../2Course/Electronics/Assignment.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/Electronics/Basic Engineering Circuit Analysis by J. David Irwin, Robert M. Nelms (z-lib.org).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/.idea/artifacts/JavaFXApp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/animation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/artifacts/JavaFXApp/JavaFXApp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/artifacts/JavaFXApp/JavaFXApp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/artifacts/JavaFXApp/JavaFXApp.jnlp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/out/production/sample/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/out/production/sample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/out/production/sample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/out/production/sample/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/out/production/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/out/production/sample/sample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/out/production/animation/sample/sample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/out/production/sample/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/out/production/sample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/out/production/sample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/out/production/sample/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/out/production/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/out/production/sample/sample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/OOP/AnimationJava_mid/src/sample/sample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/Web/TravelPage_midterm_project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2Course/Web/TravelPage_midterm_project/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/Resume-2-master/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/Resume-2-master/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/Resume-2-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/Resume-2-master/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/Resume-2-master/three.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/Resume-2-master/vanta.birds.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/three.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resume-2-master/vanta.birds.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResumeDemo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResumeDemo/style" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResumeDemo/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/Exercise/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/Exercise/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/Exercise/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/Exercise2/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/Exercise2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/Exercise2/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/Exercise2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/BeyondTheBasics/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/BeyondTheBasics/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FifthWeek/Lesson1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FifthWeek/Lesson1/sript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FifthWeek/Lesson1/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/About Me/MyChoices.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/About Me/Tools.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/About Me/WebsitesToFollow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/About Me/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/Button/.vs/Button/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/Button/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/Button/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/Button/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/Button/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/Buttons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/Buttons/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/FirstLessonHTML/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/FirstLessonHTML/websites.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/SemanticPage/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FirstWeek/SemanticPage/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FourthWeek/LandingPageFlexGridProject/docs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FourthWeek/LandingPageFlexGridProject/feauters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FourthWeek/LandingPageFlexGridProject/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FourthWeek/LandingPageFlexGridProject/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/FourthWeek/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/Practice projects HTML&amp;CSS/Coming soon(postiotioning)/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/Practice projects HTML&amp;CSS/Coming soon(postiotioning)/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/Practice projects HTML&amp;CSS/Design buttons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/Practice projects HTML&amp;CSS/Design buttons/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/Practice projects HTML&amp;CSS/Dream big/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/Practice projects HTML&amp;CSS/Dream big/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SIxthWeek/Js exercise/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SIxthWeek/Js exercise/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L1Layouts/Exercise/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L1Layouts/Exercise/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L1Layouts/Exercise/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L1Layouts/Project/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L1Layouts/Project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L1Layouts/Project/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L1Layouts/z-index/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L1Layouts/z-index/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L2Forms/ClassProject/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L2Forms/ClassProject/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L3ResponsiveWebDesign/ClassWork/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L3ResponsiveWebDesign/ClassWork/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L4Mobile1approach/ProjectMobile/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/SecondWeek/L4Mobile1approach/ProjectMobile/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/ThirdWeek/L1/class_project/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/ThirdWeek/L1/class_project/.vs/class_project/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/ThirdWeek/L1/class_project/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/ThirdWeek/L1/class_project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/ThirdWeek/L1/class_project/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/HTML/my-repo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/JS/ChangeColorExercise/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/JS/ChangeColorExercise/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeytechBootcamp/JS/ChangeColorExercise/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weReached/Mailchimp-Project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weReached/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weReached/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Task_class" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22UbzDg7dLy6uV7OS0BqZ2g3abu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/postgresql-42.3.1.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a09da38-0679-4865-9abd-f80ad316920d" name="Default Changelist" comment="" />
+      <created>1639895373173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639895373173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="taskClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="taskClass" />
+  </component>
+</project>
